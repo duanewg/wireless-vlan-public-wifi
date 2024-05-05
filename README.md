@@ -1,10 +1,9 @@
 <p align="center">
-<img src="https://place-hold.it/600x200" alt="Place Holder Image"/>
-<!-- <img src="assets/logo.svg" alt="Logo Text There" /> -->
+<img src="assets/wifi-vlan-logo.svg" alt="WiFi VLAN" /> -->
 </p>
 
-# Project Title
-"[Project Name]" involves [briefly describe the main objective or purpose of the project] utilizing [mention any specific tools, technologies, or platforms]. This project aims to [mention the primary goal or outcome] to [highlight the intended impact or benefit].
+# Wireless VLAN for Public WiFi
+The Wireless VLAN Configuration for Public WiFi project aims to enhance network security and optimize performance by implementing VLAN segmentation for the organization's public WiFi network. By creating separate VLANs for guest users and internal network traffic, the project seeks to improve network isolation, control access to sensitive resources, and ensure a seamless and secure experience for both guests and internal users.
 
 ## Environments and Technologies Used
 
