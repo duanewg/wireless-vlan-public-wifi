@@ -7,13 +7,12 @@ The Wireless VLAN Configuration for Public WiFi project aims to enhance network 
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
+- Netgear M4100-24G-POE+ Managed Switches
+- FortiGate-60E Firewall
 
 ## Operating Systems Used
 
-- Operating System Name
+- Windodws 10
 
 ## High-Level Deployment and Configuration Steps
 
