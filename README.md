@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/wifi-vlan-logo.svg" alt="WiFi VLAN" /> -->
+<img src="assets/wifi-vlan-logo.svg" alt="WiFi VLAN" />
 </p>
 
 # Wireless VLAN for Public WiFi
