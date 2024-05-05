@@ -9,6 +9,7 @@ The Wireless VLAN Configuration for Public WiFi project aims to enhance network 
 
 - Netgear M4100-24G-POE+ Managed Switches
 - FortiGate-60E Firewall
+- Ubiquiti Networks UniFi AC HD
 
 ## Operating Systems Used
 
@@ -16,11 +17,14 @@ The Wireless VLAN Configuration for Public WiFi project aims to enhance network 
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
+- Configure separate VLAN for guest WiFi access on swtich
+- Configure interface on firewall with VLAN, IP address range, and DHCP server
+- Configure security policies on the firewall interface
+    - Web filtering
+    - Antivirus
+    - DNS filtering
+- Setup wireless access point
+- Monitor traffic to validate configuration
 
 <h2>Architecture Diagram</h2>
 
